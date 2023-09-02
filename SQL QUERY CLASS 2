@@ -1,0 +1,15 @@
+create table Employee(
+     Employee_ID int,
+     Ename varchar(50),
+     City  varchar(50));
+	 
+INSERT INTO Employee
+VALUES (11,'Maria','Karachi'),
+(12,'Ali','Islamabad'),
+(13,'Sarah','Lahore'),
+(14,'Samreen','Karachi')
+
+Select * from Employee
+
+
+ 
